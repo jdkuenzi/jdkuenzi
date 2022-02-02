@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdkuenzi
-- :switzerland: I'm a Swiss Engineer :gear:
+- :switzerland: I'm a Swiss IT Engineer :gear:
 - 👀 I’m interested in Algorithm, Astronomy, Artificial Intelligence and all subjects related to the fields of science, mathematics and computer science
 - 📫 How to reach me : jeandanielkuenzi@gmail.com
 
